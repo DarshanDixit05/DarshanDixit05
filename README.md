@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DarshanDixit05
-- 👀 I’m interested in building Web Apps using MERN
-- 🌱 I’m currently learning and working on API's.
-- 📫 How to reach me : darshandixit0@gmail.com or https://portfolio-93174.firebaseapp.com/
+- 👋 Hi, I’m Darshan.
+- 👀 I’m interested in building Web Apps.
+- 🌱 Developing techs to help people grow.
+- 📫 How to reach me : darshandixit0@gmail.com or https://www.linkedin.com/in/darshan-dixit-a0603820a/
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100"/>
