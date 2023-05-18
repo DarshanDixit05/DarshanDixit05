@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Darshan.
 - 👀 I’m interested in building Web Apps.
 - 🌱 Developing techs to help people grow.
-- 💻 I leetcode : https://leetcode.com/darshandixit05/
 - 📫 How to reach me : darshandixit0@gmail.com or https://www.linkedin.com/in/darshan-dixit-a0603820a/
 
 <div id="header" align="center">
