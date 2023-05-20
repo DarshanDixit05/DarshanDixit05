@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Darshan.
-- 👀 I’m interested developing techs to help people grow.
+- 👀 I’m interested in developing tech's to help people grow.
 - ✅ Aspired MERN stack developer.
 - 🌟 I contribute to open source company-projects/libraries.
 - 💻 I solve DSA problems : https://leetcode.com/darshandixit05/ 
