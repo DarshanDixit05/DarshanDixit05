@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Darshan.
 - 👀 I’m interested in developing tech's to help people grow.
 - ✅ Aspired MERN stack developer.
+- 🎯 Currently working on an app which tracks user's health goals.
 - 🌟 I contribute to open source company-projects/libraries.
 - 💻 I solve DSA problems : https://leetcode.com/darshandixit05/ 
 - 📫 How to reach me : darshandixit0@gmail.com or https://www.linkedin.com/in/darshan-dixit-a0603820a/
