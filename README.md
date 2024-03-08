@@ -17,3 +17,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarshanDixit05&theme=dark&hide_border=true&type=png)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=DarshanDixit05)
