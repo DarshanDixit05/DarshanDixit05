@@ -15,6 +15,7 @@
 DarshanDixit05/DarshanDixit05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+<div align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DarshanDixit05&theme=dark&hide_border=true&type=png)](https://git.io/streak-stats)
+</div>
 ![](https://komarev.com/ghpvc/?username=DarshanDixit05)
